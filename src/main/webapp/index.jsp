@@ -6,7 +6,7 @@
 <body>
 
 <h1>my name is sudheer</h1>
-<p>This is a paragraph.</p>
+<p>This is a sudheer</p>
 
 </body>
 </html>
